@@ -4,31 +4,43 @@ body {
 }
 
 header {
-    background-image: url(https://4.bp.blogspot.com/-HNB4b3TfW3I/WbQc3-dS19I/AAAAAAAAC_A/1BpIjKDZoUoy5wVV54f4ZyzLKlzA20N5gCLcBGAs/s640/1150909.jpg);
     opacity: 0.2;
 }
 
 .d {
-    text-align: center;
-    padding-top: 110px;
-    padding-bottom: 110px;
-    color: blanchedalmond;
+    color: rgb(255, 255, 255);
+    padding-left: 200px;
+    position: absolute;
+    border: 5px solid black;
+    right: 500px;
+    top: 350px;
 }
 
-.dy {
-    color: blanchedalmond;
+.g {
+    color: rgb(255, 255, 255);
+    padding-left: 200px;
+    position: absolute;
+    border: 5px solid black;
+    right: 500px;
+    top: 200px
+}
+
+.s {
+    color: rgb(255, 255, 255);
     padding-left: 200px;
     position: absolute;
     top:110px;
     left: 200px;
+    border: 5px solid black;
 }
 
 h1 {
-    color: blanchedalmond;
+    color: rgb(0, 0, 0);
     top:110px;
     text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeLvmPVRJ4qW3e7LYtcLV4lL5WTPwsXJFRQ&usqp=CAU);
+    opacity: 0.5;
 }
-
 
 img {
     width: 250px;
@@ -36,21 +48,12 @@ img {
 }
 
 .w {
-    width: 130px;
+    width: 260px;
     height: 165px;
     border-radius: 20px;
     position: absolute;
-    left: 800px;
+    left: 700px;
     top: 304px;
-    opacity: 0.5;
-}
-
-.w:hover{
-    opacity: 1;
-    border: 6px solid rgb(27, 27, 27);
-    width: 135px;
-    height: 170px;
-    transition: 0.5s ease-out;
 }
 
 p {
@@ -60,100 +63,31 @@ p {
 .h {
     position: absolute;
     left: 800px;
-    top: 460px;
+    top: 475px;
 }
 
 .m {
     position: absolute;
-    left: 30px;
-    top: 460px;
+    left: 70px;
+    top: 475px;
 }
 
-.r{
-    position: absolute;
-    top: 660px;
-}
-
-.t{
-    width: 130px;
-    height: 165px;
-    border-radius: 20px;
-    position: absolute;
-    top: 500px;
-    opacity: 0.5;
-}
-
-.t:hover{
-    opacity: 1;
-    border: 6px solid rgb(27, 27, 27);
-    width: 135px;
-    height: 170px;
-    transition: 0.5s ease-out;
-}
-
-.f:hover{
-    opacity: 1;
-    border: 6px solid rgb(27, 27, 27);
-    width: 135px;
-    height: 170px;
-    transition: 0.5s ease-out;
+a{
+    color: white;
 }
 
 .f{
-    width: 130px;
-    height: 165px;
-    border-radius: 20px;
+    left: 400px;
+}
+
+.dfw{
     position: absolute;
-    left: 800px;
-    top: 500px;
-    opacity: 0.5;
+    left: 200px;
+    top: 235px;
 }
 
-.p{
+.df{
     position: absolute;
-    top: 660px;
-    left: 800px;
-}
-
-nav{
-
-}
-
-.knock{
-    width: 130px;
-    height: 165px;
-    border-radius: 20px;
-    position: absolute;
-    top: 304px;
-    opacity: 0.5;
-}
-
-.knock:hover{
-    opacity: 1;
-    border: 6px solid rgb(27, 27, 27);
-    width: 135px;
-    height: 170px;
-    transition: 0.5s ease-out;
-}
-
-.never{
-    position: absolute;
-    left: 590px;
-}
-
-.by{
-    position: absolute;
-    left: 150px;
-    top: 530px;
-}
-
-.cant{
-    position: absolute;
-    left: 150px;
-}
-
-.wait{
-    position: absolute;
-    left: 590px;
-    top: 530px;
+    left: 200px;
+    top: 455px;
 }
